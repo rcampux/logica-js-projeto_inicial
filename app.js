@@ -1,6 +1,9 @@
 alert('Boas vindas ao jogo do número secreto');
 let numeroSecreto = 5;
 console.log(numeroSecreto)
+console.log(numeroSecreto)
+console.log(numeroSecreto)
+
 let chute //espaço para armazenar o valor do chute na linha 8
 
 /* Enquanto chute for não igual (!=), ao número secreto */
